@@ -1,0 +1,4 @@
+name: Stadium
+version: '0.0.1'
+main: io.github.qenas.stadium.Stadium
+api-version: '1.21'
